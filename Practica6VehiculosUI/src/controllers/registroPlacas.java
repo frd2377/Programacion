@@ -3,21 +3,21 @@ package controllers;
 import java.io.IOException;
 
 import models.vehiculo;
-import patron_V10.archivos;
-import patron_V10.generica;
+import patron.Archivos;
+import patron.Generica;
 
 public class registroPlacas extends Thread implements parametrizable{
-	private archivos file;
-	private generica<String,?>dt_r;
-	private generica<Double,?>gases;
+	private Archivos file;
+	private Generica<String,?>dt_r;
+	private Generica<Double,?>gases;
 	
 	public registroPlacas(String...marcas) {
 		try {
-			file=new archivos("src/datos/vehiculos.txt");
+			file=new Archivos("src/datos/vehiculos.txt");
 			file.create(1);//Creación del archivo vehiculos
 			file.writerFile("MARCA \t PLACA \t LAMBDA \t 02 \t N2O \t CO2#", true);
-			dt_r=new generica<>();
-			dt_r.atributoArray=marcas;
+			dt_r=new Generica<>();
+			dt_r.atributoArray1=marcas;
 
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
@@ -25,7 +25,7 @@ public class registroPlacas extends Thread implements parametrizable{
 		}
 	}
 	private int getIndexMarca() {
-		return (int)(Math.random()*dt_r.atributoArray.length);
+		return (int)(Math.random()*dt_r.atributoArray1.length);
 	}
 	private int getNumeroPlaca() {
 		return (int)(Math.random()*10);
@@ -42,7 +42,7 @@ public class registroPlacas extends Thread implements parametrizable{
 	}
 	
 	public void run() {
-		dt_r.setAtributo1(dt_r.atributoArray[getIndexMarca()]);//Obtener la marca
+		dt_r.setAtributo1(dt_r.atributoArray1[getIndexMarca()]);//Obtener la marca
 		dt_r.setAtributo2(prov.split(",")[getLetraInicioPlaca()].toUpperCase());
 		for(int i=0;i<2;i++) {
 			dt_r.setAtributo2(dt_r.getAtributo2()+abc.split(",")[getLetraPlaca()].toUpperCase());

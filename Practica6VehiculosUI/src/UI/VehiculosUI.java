@@ -25,25 +25,6 @@ public class VehiculosUI extends JFrame {
 	public JComboBox comboBoxVehiculos;
 	public JTextArea textAreaEstado;
 
-	/**
-	 * Launch the application.
-	 */
-	public static void main(String[] args) {
-		EventQueue.invokeLater(new Runnable() {
-			public void run() {
-				try {
-					VehiculosUI frame = new VehiculosUI();
-					frame.setVisible(true);
-				} catch (Exception e) {
-					e.printStackTrace();
-				}
-			}
-		});
-	}
-
-	/**
-	 * Create the frame.
-	 */
 	public VehiculosUI() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 663, 460);
@@ -93,8 +74,7 @@ public class VehiculosUI extends JFrame {
 		textAreaEstado.setEditable(false);
 		textAreaEstado.setBounds(10, 222, 631, 177);
 		contentPane.add(textAreaEstado);
-		logicViewMecanica logicViewMecanica = new logicViewMecanica(this);
-		
+		logicViewMecanica logicViewMecanica = new logicViewMecanica(this);		
 		
 	}
 }

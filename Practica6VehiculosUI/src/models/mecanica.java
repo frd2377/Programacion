@@ -1,7 +1,5 @@
 package models;
 
-import patron_V10.generica;
-
 public class mecanica {
 	private vehiculo vh;
 	public mecanica(vehiculo vh_) {

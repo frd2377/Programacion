@@ -26,16 +26,13 @@ public class main {
 			Thread proceso=new revision();
 			proceso.start();
 			
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-//		
-		catch (InterruptedException e) {
+		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		
+		VehiculosUI vehiculosUI = new VehiculosUI();
+		vehiculosUI.setVisible(true);
 
 	}
 
