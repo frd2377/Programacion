@@ -1,0 +1,82 @@
+mecanico 10
+1 Porsche AZZ-5383 0.03 2.35 7.75 21.21
+2 MercedesBenz PIA-6513 2.75 0.95 65.05 18.18
+3 Ferrari XUS-4274 1.62 0.71 43.14 19.43
+4 Hyundai AMK-5590 2.04 4.07 18.32 22.22
+5 MercedesBenz CTT-3004 0.57 2.89 69.44 8.04
+Porcentaje% 
+Vehiculo: Porsche
+Placa: AZZ-5383
+	L: 	0% Pasa en Primera Revisión
+	O2 	17.5% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	41.4% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: MercedesBenz
+Placa: PIA-6513
+	L: 	100% Segunda Revisión Asignada
+	O2 	0% Pasa en Primera Revisión
+	N2O 	62.62% Pasa en Primera Revisión
+	CO2 	21.2% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Ferrari
+Placa: XUS-4274
+	L: 	62.0% Pasa en Primera Revisión
+	O2 	0% Pasa en Primera Revisión
+	N2O 	7.85% Pasa en Primera Revisión
+	CO2 	29.53% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Hyundai
+Placa: AMK-5590
+	L: 	100% Segunda Revisión Asignada
+	O2 	100% Segunda Revisión Asignada
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	48.13% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: MercedesBenz
+Placa: CTT-3004
+	L: 	0% Pasa en Primera Revisión
+	O2 	44.5% Segunda Revisión Asignada
+	N2O 	73.6% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+mecanico 10
+1 Porsche AZZ-5383 0.03 2.35 7.75 21.21
+2 MercedesBenz PIA-6513 2.75 0.95 65.05 18.18
+3 Ferrari XUS-4274 1.62 0.71 43.14 19.43
+4 Hyundai AMK-5590 2.04 4.07 18.32 22.22
+5 MercedesBenz CTT-3004 0.57 2.89 69.44 8.04
+Porcentaje% 
+Vehiculo: Porsche
+Placa: AZZ-5383
+	L: 	0% Pasa en Primera Revisión
+	O2 	17.5% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	41.4% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: MercedesBenz
+Placa: PIA-6513
+	L: 	100% Segunda Revisión Asignada
+	O2 	0% Pasa en Primera Revisión
+	N2O 	62.62% Pasa en Primera Revisión
+	CO2 	21.2% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Ferrari
+Placa: XUS-4274
+	L: 	62.0% Pasa en Primera Revisión
+	O2 	0% Pasa en Primera Revisión
+	N2O 	7.85% Pasa en Primera Revisión
+	CO2 	29.53% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Hyundai
+Placa: AMK-5590
+	L: 	100% Segunda Revisión Asignada
+	O2 	100% Segunda Revisión Asignada
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	48.13% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: MercedesBenz
+Placa: CTT-3004
+	L: 	0% Pasa en Primera Revisión
+	O2 	44.5% Segunda Revisión Asignada
+	N2O 	73.6% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión

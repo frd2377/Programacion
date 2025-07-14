@@ -1,0 +1,82 @@
+mecanico 6
+1 Ferrari TJL-1473 0.42 4.27 10.6 3.57
+2 Hyundai AMS-4403 1.1 0.0 36.93 1.93
+3 Toyota PXG-9259 0.76 3.49 31.06 21.05
+4 Toyota CYF-2103 0.31 4.9 60.44 24.69
+5 MercedesBenz GXC-8728 2.27 2.59 9.09 15.47
+Porcentaje% 
+Vehiculo: Ferrari
+Placa: TJL-1473
+	L: 	0% Pasa en Primera Revisión
+	O2 	100% Segunda Revisión Asignada
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Hyundai
+Placa: AMS-4403
+	L: 	10.0% Pasa en Primera Revisión
+	O2 	0% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Toyota
+Placa: PXG-9259
+	L: 	0% Pasa en Primera Revisión
+	O2 	74.5% Segunda Revisión Asignada
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	40.33% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Toyota
+Placa: CYF-2103
+	L: 	0% Pasa en Primera Revisión
+	O2 	100% Segunda Revisión Asignada
+	N2O 	51.1% Pasa en Primera Revisión
+	CO2 	64.6% Segunda Revisión Asignada
+Porcentaje% 
+Vehiculo: MercedesBenz
+Placa: GXC-8728
+	L: 	100% Segunda Revisión Asignada
+	O2 	29.5% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	3.13% Pasa en Primera Revisión
+mecanico 6
+1 Ferrari TJL-1473 0.42 4.27 10.6 3.57
+2 Hyundai AMS-4403 1.1 0.0 36.93 1.93
+3 Toyota PXG-9259 0.76 3.49 31.06 21.05
+4 Toyota CYF-2103 0.31 4.9 60.44 24.69
+5 MercedesBenz GXC-8728 2.27 2.59 9.09 15.47
+Porcentaje% 
+Vehiculo: Ferrari
+Placa: TJL-1473
+	L: 	0% Pasa en Primera Revisión
+	O2 	100% Segunda Revisión Asignada
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Hyundai
+Placa: AMS-4403
+	L: 	10.0% Pasa en Primera Revisión
+	O2 	0% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Toyota
+Placa: PXG-9259
+	L: 	0% Pasa en Primera Revisión
+	O2 	74.5% Segunda Revisión Asignada
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	40.33% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Toyota
+Placa: CYF-2103
+	L: 	0% Pasa en Primera Revisión
+	O2 	100% Segunda Revisión Asignada
+	N2O 	51.1% Pasa en Primera Revisión
+	CO2 	64.6% Segunda Revisión Asignada
+Porcentaje% 
+Vehiculo: MercedesBenz
+Placa: GXC-8728
+	L: 	100% Segunda Revisión Asignada
+	O2 	29.5% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	3.13% Pasa en Primera Revisión

@@ -48,7 +48,7 @@ public class GeneradorPlacas extends Thread implements Parametrizable{
 		
 		try {
 			sleep(2000);
-			file.writerFile(datos.toString(), false);
+			file.writerFile(vehiculo.toString(), false);
 		} catch (Exception e) {
 			e.printStackTrace();
 		}

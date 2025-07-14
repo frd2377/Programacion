@@ -1,0 +1,82 @@
+mecanico 2
+1 MercedesBenz XLU-1373 2.47 0.38 20.52 18.2
+2 Ferrari PTZ-6054 2.09 1.77 38.25 10.04
+3 Ferrari GEB-2985 2.32 3.69 14.77 22.48
+4 Ferrari XNI-9035 1.55 4.1 8.18 26.33
+5 Hyundai AKW-3581 2.1 1.98 72.67 23.64
+Porcentaje% 
+Vehiculo: MercedesBenz
+Placa: XLU-1373
+	L: 	100% Segunda Revisión Asignada
+	O2 	0% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	21.33% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Ferrari
+Placa: PTZ-6054
+	L: 	100% Segunda Revisión Asignada
+	O2 	0% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Ferrari
+Placa: GEB-2985
+	L: 	100% Segunda Revisión Asignada
+	O2 	84.5% Segunda Revisión Asignada
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	49.87% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Ferrari
+Placa: XNI-9035
+	L: 	55.0% Pasa en Primera Revisión
+	O2 	100% Segunda Revisión Asignada
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	75.53% Segunda Revisión Asignada
+Porcentaje% 
+Vehiculo: Hyundai
+Placa: AKW-3581
+	L: 	100% Segunda Revisión Asignada
+	O2 	0% Pasa en Primera Revisión
+	N2O 	81.68% Segunda Revisión Asignada
+	CO2 	57.6% Segunda Revisión Asignada
+mecanico 2
+1 MercedesBenz XLU-1373 2.47 0.38 20.52 18.2
+2 Ferrari PTZ-6054 2.09 1.77 38.25 10.04
+3 Ferrari GEB-2985 2.32 3.69 14.77 22.48
+4 Ferrari XNI-9035 1.55 4.1 8.18 26.33
+5 Hyundai AKW-3581 2.1 1.98 72.67 23.64
+Porcentaje% 
+Vehiculo: MercedesBenz
+Placa: XLU-1373
+	L: 	100% Segunda Revisión Asignada
+	O2 	0% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	21.33% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Ferrari
+Placa: PTZ-6054
+	L: 	100% Segunda Revisión Asignada
+	O2 	0% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Ferrari
+Placa: GEB-2985
+	L: 	100% Segunda Revisión Asignada
+	O2 	84.5% Segunda Revisión Asignada
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	49.87% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Ferrari
+Placa: XNI-9035
+	L: 	55.0% Pasa en Primera Revisión
+	O2 	100% Segunda Revisión Asignada
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	75.53% Segunda Revisión Asignada
+Porcentaje% 
+Vehiculo: Hyundai
+Placa: AKW-3581
+	L: 	100% Segunda Revisión Asignada
+	O2 	0% Pasa en Primera Revisión
+	N2O 	81.68% Segunda Revisión Asignada
+	CO2 	57.6% Segunda Revisión Asignada

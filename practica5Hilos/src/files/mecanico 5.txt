@@ -1,0 +1,82 @@
+mecanico 5
+1 Toyota AWS-9612 0.04 1.38 11.52 28.3
+2 Hyundai PSS-9577 0.71 1.81 19.56 21.45
+3 Porsche GIX-5701 1.56 4.8 17.87 8.46
+4 Porsche PXO-3167 0.57 2.69 59.19 15.54
+5 Porsche APLL-7824 2.06 1.19 40.63 15.44
+Porcentaje% 
+Vehiculo: Toyota
+Placa: AWS-9612
+	L: 	0% Pasa en Primera Revisión
+	O2 	0% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	88.67% Segunda Revisión Asignada
+Porcentaje% 
+Vehiculo: Hyundai
+Placa: PSS-9577
+	L: 	0% Pasa en Primera Revisión
+	O2 	0% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	43.0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Porsche
+Placa: GIX-5701
+	L: 	56.0% Pasa en Primera Revisión
+	O2 	100% Segunda Revisión Asignada
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Porsche
+Placa: PXO-3167
+	L: 	0% Pasa en Primera Revisión
+	O2 	34.5% Segunda Revisión Asignada
+	N2O 	47.97% Pasa en Primera Revisión
+	CO2 	3.6% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Porsche
+Placa: APLL-7824
+	L: 	100% Segunda Revisión Asignada
+	O2 	0% Pasa en Primera Revisión
+	N2O 	1.58% Pasa en Primera Revisión
+	CO2 	2.93% Pasa en Primera Revisión
+mecanico 5
+1 Toyota AWS-9612 0.04 1.38 11.52 28.3
+2 Hyundai PSS-9577 0.71 1.81 19.56 21.45
+3 Porsche GIX-5701 1.56 4.8 17.87 8.46
+4 Porsche PXO-3167 0.57 2.69 59.19 15.54
+5 Porsche APLL-7824 2.06 1.19 40.63 15.44
+Porcentaje% 
+Vehiculo: Toyota
+Placa: AWS-9612
+	L: 	0% Pasa en Primera Revisión
+	O2 	0% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	88.67% Segunda Revisión Asignada
+Porcentaje% 
+Vehiculo: Hyundai
+Placa: PSS-9577
+	L: 	0% Pasa en Primera Revisión
+	O2 	0% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	43.0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Porsche
+Placa: GIX-5701
+	L: 	56.0% Pasa en Primera Revisión
+	O2 	100% Segunda Revisión Asignada
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Porsche
+Placa: PXO-3167
+	L: 	0% Pasa en Primera Revisión
+	O2 	34.5% Segunda Revisión Asignada
+	N2O 	47.97% Pasa en Primera Revisión
+	CO2 	3.6% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Porsche
+Placa: APLL-7824
+	L: 	100% Segunda Revisión Asignada
+	O2 	0% Pasa en Primera Revisión
+	N2O 	1.58% Pasa en Primera Revisión
+	CO2 	2.93% Pasa en Primera Revisión

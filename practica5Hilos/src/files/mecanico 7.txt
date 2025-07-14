@@ -1,0 +1,82 @@
+mecanico 7
+1 Porsche GYO-6609 0.8 2.64 13.21 9.28
+2 MercedesBenz ADI-3179 1.9 0.75 3.74 29.12
+3 MercedesBenz TOF-4693 2.79 1.4 47.68 13.62
+4 MercedesBenz CGA-9025 1.74 0.13 46.64 28.03
+5 Hyundai PJO-6804 0.21 3.85 54.87 19.41
+Porcentaje% 
+Vehiculo: Porsche
+Placa: GYO-6609
+	L: 	0% Pasa en Primera Revisión
+	O2 	32.0% Segunda Revisión Asignada
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: MercedesBenz
+Placa: ADI-3179
+	L: 	90.0% Segunda Revisión Asignada
+	O2 	0% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	94.13% Segunda Revisión Asignada
+Porcentaje% 
+Vehiculo: MercedesBenz
+Placa: TOF-4693
+	L: 	100% Segunda Revisión Asignada
+	O2 	0% Pasa en Primera Revisión
+	N2O 	19.2% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: MercedesBenz
+Placa: CGA-9025
+	L: 	74.0% Segunda Revisión Asignada
+	O2 	0% Pasa en Primera Revisión
+	N2O 	16.6% Pasa en Primera Revisión
+	CO2 	86.87% Segunda Revisión Asignada
+Porcentaje% 
+Vehiculo: Hyundai
+Placa: PJO-6804
+	L: 	0% Pasa en Primera Revisión
+	O2 	92.5% Segunda Revisión Asignada
+	N2O 	37.17% Pasa en Primera Revisión
+	CO2 	29.4% Pasa en Primera Revisión
+mecanico 7
+1 Porsche GYO-6609 0.8 2.64 13.21 9.28
+2 MercedesBenz ADI-3179 1.9 0.75 3.74 29.12
+3 MercedesBenz TOF-4693 2.79 1.4 47.68 13.62
+4 MercedesBenz CGA-9025 1.74 0.13 46.64 28.03
+5 Hyundai PJO-6804 0.21 3.85 54.87 19.41
+Porcentaje% 
+Vehiculo: Porsche
+Placa: GYO-6609
+	L: 	0% Pasa en Primera Revisión
+	O2 	32.0% Segunda Revisión Asignada
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: MercedesBenz
+Placa: ADI-3179
+	L: 	90.0% Segunda Revisión Asignada
+	O2 	0% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	94.13% Segunda Revisión Asignada
+Porcentaje% 
+Vehiculo: MercedesBenz
+Placa: TOF-4693
+	L: 	100% Segunda Revisión Asignada
+	O2 	0% Pasa en Primera Revisión
+	N2O 	19.2% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: MercedesBenz
+Placa: CGA-9025
+	L: 	74.0% Segunda Revisión Asignada
+	O2 	0% Pasa en Primera Revisión
+	N2O 	16.6% Pasa en Primera Revisión
+	CO2 	86.87% Segunda Revisión Asignada
+Porcentaje% 
+Vehiculo: Hyundai
+Placa: PJO-6804
+	L: 	0% Pasa en Primera Revisión
+	O2 	92.5% Segunda Revisión Asignada
+	N2O 	37.17% Pasa en Primera Revisión
+	CO2 	29.4% Pasa en Primera Revisión

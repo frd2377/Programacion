@@ -1,0 +1,82 @@
+mecanico 8
+1 Ferrari XQE-8964 2.59 1.48 37.01 25.87
+2 Porsche XEE-6939 1.67 1.48 29.7 11.98
+3 Porsche AYO-5364 0.48 1.76 13.38 11.13
+4 Toyota CNS-3133 0.56 3.87 24.29 13.38
+5 Ferrari PQO-5777 1.19 4.95 75.95 11.93
+Porcentaje% 
+Vehiculo: Ferrari
+Placa: XQE-8964
+	L: 	100% Segunda Revisión Asignada
+	O2 	0% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	72.47% Segunda Revisión Asignada
+Porcentaje% 
+Vehiculo: Porsche
+Placa: XEE-6939
+	L: 	67.0% Pasa en Primera Revisión
+	O2 	0% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Porsche
+Placa: AYO-5364
+	L: 	0% Pasa en Primera Revisión
+	O2 	0% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Toyota
+Placa: CNS-3133
+	L: 	0% Pasa en Primera Revisión
+	O2 	93.5% Segunda Revisión Asignada
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Ferrari
+Placa: PQO-5777
+	L: 	19.0% Pasa en Primera Revisión
+	O2 	100% Segunda Revisión Asignada
+	N2O 	89.88% Segunda Revisión Asignada
+	CO2 	0% Pasa en Primera Revisión
+mecanico 8
+1 Ferrari XQE-8964 2.59 1.48 37.01 25.87
+2 Porsche XEE-6939 1.67 1.48 29.7 11.98
+3 Porsche AYO-5364 0.48 1.76 13.38 11.13
+4 Toyota CNS-3133 0.56 3.87 24.29 13.38
+5 Ferrari PQO-5777 1.19 4.95 75.95 11.93
+Porcentaje% 
+Vehiculo: Ferrari
+Placa: XQE-8964
+	L: 	100% Segunda Revisión Asignada
+	O2 	0% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	72.47% Segunda Revisión Asignada
+Porcentaje% 
+Vehiculo: Porsche
+Placa: XEE-6939
+	L: 	67.0% Pasa en Primera Revisión
+	O2 	0% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Porsche
+Placa: AYO-5364
+	L: 	0% Pasa en Primera Revisión
+	O2 	0% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Toyota
+Placa: CNS-3133
+	L: 	0% Pasa en Primera Revisión
+	O2 	93.5% Segunda Revisión Asignada
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Ferrari
+Placa: PQO-5777
+	L: 	19.0% Pasa en Primera Revisión
+	O2 	100% Segunda Revisión Asignada
+	N2O 	89.88% Segunda Revisión Asignada
+	CO2 	0% Pasa en Primera Revisión

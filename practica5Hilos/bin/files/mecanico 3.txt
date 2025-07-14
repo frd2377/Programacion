@@ -1,0 +1,82 @@
+mecanico 3
+1 Hyundai AGLL-9887 2.52 0.27 62.85 7.9
+2 Hyundai PWS-0976 0.32 4.96 72.22 24.91
+3 Porsche TWP-5792 2.71 3.03 46.77 21.72
+4 Porsche AVN-3381 1.68 1.3 66.12 11.92
+5 Ferrari PGA-6393 2.77 2.23 43.8 28.02
+Porcentaje% 
+Vehiculo: Hyundai
+Placa: AGLL-9887
+	L: 	100% Segunda Revisión Asignada
+	O2 	0% Pasa en Primera Revisión
+	N2O 	57.13% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Hyundai
+Placa: PWS-0976
+	L: 	0% Pasa en Primera Revisión
+	O2 	100% Segunda Revisión Asignada
+	N2O 	80.55% Segunda Revisión Asignada
+	CO2 	66.07% Segunda Revisión Asignada
+Porcentaje% 
+Vehiculo: Porsche
+Placa: TWP-5792
+	L: 	100% Segunda Revisión Asignada
+	O2 	51.5% Segunda Revisión Asignada
+	N2O 	16.93% Pasa en Primera Revisión
+	CO2 	44.8% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Porsche
+Placa: AVN-3381
+	L: 	68.0% Pasa en Primera Revisión
+	O2 	0% Pasa en Primera Revisión
+	N2O 	65.3% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Ferrari
+Placa: PGA-6393
+	L: 	100% Segunda Revisión Asignada
+	O2 	11.5% Pasa en Primera Revisión
+	N2O 	9.5% Pasa en Primera Revisión
+	CO2 	86.8% Segunda Revisión Asignada
+mecanico 3
+1 Hyundai AGLL-9887 2.52 0.27 62.85 7.9
+2 Hyundai PWS-0976 0.32 4.96 72.22 24.91
+3 Porsche TWP-5792 2.71 3.03 46.77 21.72
+4 Porsche AVN-3381 1.68 1.3 66.12 11.92
+5 Ferrari PGA-6393 2.77 2.23 43.8 28.02
+Porcentaje% 
+Vehiculo: Hyundai
+Placa: AGLL-9887
+	L: 	100% Segunda Revisión Asignada
+	O2 	0% Pasa en Primera Revisión
+	N2O 	57.13% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Hyundai
+Placa: PWS-0976
+	L: 	0% Pasa en Primera Revisión
+	O2 	100% Segunda Revisión Asignada
+	N2O 	80.55% Segunda Revisión Asignada
+	CO2 	66.07% Segunda Revisión Asignada
+Porcentaje% 
+Vehiculo: Porsche
+Placa: TWP-5792
+	L: 	100% Segunda Revisión Asignada
+	O2 	51.5% Segunda Revisión Asignada
+	N2O 	16.93% Pasa en Primera Revisión
+	CO2 	44.8% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Porsche
+Placa: AVN-3381
+	L: 	68.0% Pasa en Primera Revisión
+	O2 	0% Pasa en Primera Revisión
+	N2O 	65.3% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Ferrari
+Placa: PGA-6393
+	L: 	100% Segunda Revisión Asignada
+	O2 	11.5% Pasa en Primera Revisión
+	N2O 	9.5% Pasa en Primera Revisión
+	CO2 	86.8% Segunda Revisión Asignada

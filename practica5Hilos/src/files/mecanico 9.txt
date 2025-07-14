@@ -1,0 +1,82 @@
+mecanico 9
+1 Ferrari XLLF-2758 0.14 4.99 69.72 23.08
+2 Ferrari TJM-2089 0.56 3.6 43.29 15.26
+3 Ferrari XAI-7069 0.97 0.26 30.7 10.94
+4 Hyundai CPR-1320 0.11 2.05 20.98 3.37
+5 Porsche AAW-6996 2.9 2.49 51.23 12.4
+Porcentaje% 
+Vehiculo: Ferrari
+Placa: XLLF-2758
+	L: 	0% Pasa en Primera Revisión
+	O2 	100% Segunda Revisión Asignada
+	N2O 	74.3% Pasa en Primera Revisión
+	CO2 	53.87% Segunda Revisión Asignada
+Porcentaje% 
+Vehiculo: Ferrari
+Placa: TJM-2089
+	L: 	0% Pasa en Primera Revisión
+	O2 	80.0% Segunda Revisión Asignada
+	N2O 	8.22% Pasa en Primera Revisión
+	CO2 	1.73% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Ferrari
+Placa: XAI-7069
+	L: 	0% Pasa en Primera Revisión
+	O2 	0% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Hyundai
+Placa: CPR-1320
+	L: 	0% Pasa en Primera Revisión
+	O2 	2.5% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Porsche
+Placa: AAW-6996
+	L: 	100% Segunda Revisión Asignada
+	O2 	24.5% Pasa en Primera Revisión
+	N2O 	28.07% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+mecanico 9
+1 Ferrari XLLF-2758 0.14 4.99 69.72 23.08
+2 Ferrari TJM-2089 0.56 3.6 43.29 15.26
+3 Ferrari XAI-7069 0.97 0.26 30.7 10.94
+4 Hyundai CPR-1320 0.11 2.05 20.98 3.37
+5 Porsche AAW-6996 2.9 2.49 51.23 12.4
+Porcentaje% 
+Vehiculo: Ferrari
+Placa: XLLF-2758
+	L: 	0% Pasa en Primera Revisión
+	O2 	100% Segunda Revisión Asignada
+	N2O 	74.3% Pasa en Primera Revisión
+	CO2 	53.87% Segunda Revisión Asignada
+Porcentaje% 
+Vehiculo: Ferrari
+Placa: TJM-2089
+	L: 	0% Pasa en Primera Revisión
+	O2 	80.0% Segunda Revisión Asignada
+	N2O 	8.22% Pasa en Primera Revisión
+	CO2 	1.73% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Ferrari
+Placa: XAI-7069
+	L: 	0% Pasa en Primera Revisión
+	O2 	0% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Hyundai
+Placa: CPR-1320
+	L: 	0% Pasa en Primera Revisión
+	O2 	2.5% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Porsche
+Placa: AAW-6996
+	L: 	100% Segunda Revisión Asignada
+	O2 	24.5% Pasa en Primera Revisión
+	N2O 	28.07% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión

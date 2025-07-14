@@ -1,0 +1,82 @@
+mecanico 1
+1 Porsche AFB-0809 1.67 3.6 37.88 29.99
+2 Toyota XLF-6291 1.56 2.11 2.38 17.96
+3 Porsche GBF-9461 1.69 4.57 66.36 0.27
+4 MercedesBenz GPQ-8972 2.25 1.15 49.51 16.38
+5 Hyundai GFX-0400 1.87 3.06 14.27 4.22
+Porcentaje% 
+Vehiculo: Porsche
+Placa: AFB-0809
+	L: 	67.0% Pasa en Primera Revisión
+	O2 	80.0% Segunda Revisión Asignada
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	99.93% Segunda Revisión Asignada
+Porcentaje% 
+Vehiculo: Toyota
+Placa: XLF-6291
+	L: 	56.0% Pasa en Primera Revisión
+	O2 	5.5% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	19.73% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Porsche
+Placa: GBF-9461
+	L: 	69.0% Pasa en Primera Revisión
+	O2 	100% Segunda Revisión Asignada
+	N2O 	65.9% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: MercedesBenz
+Placa: GPQ-8972
+	L: 	100% Segunda Revisión Asignada
+	O2 	0% Pasa en Primera Revisión
+	N2O 	23.77% Pasa en Primera Revisión
+	CO2 	9.2% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Hyundai
+Placa: GFX-0400
+	L: 	87.0% Segunda Revisión Asignada
+	O2 	53.0% Segunda Revisión Asignada
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+mecanico 1
+1 Porsche AFB-0809 1.67 3.6 37.88 29.99
+2 Toyota XLF-6291 1.56 2.11 2.38 17.96
+3 Porsche GBF-9461 1.69 4.57 66.36 0.27
+4 MercedesBenz GPQ-8972 2.25 1.15 49.51 16.38
+5 Hyundai GFX-0400 1.87 3.06 14.27 4.22
+Porcentaje% 
+Vehiculo: Porsche
+Placa: AFB-0809
+	L: 	67.0% Pasa en Primera Revisión
+	O2 	80.0% Segunda Revisión Asignada
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	99.93% Segunda Revisión Asignada
+Porcentaje% 
+Vehiculo: Toyota
+Placa: XLF-6291
+	L: 	56.0% Pasa en Primera Revisión
+	O2 	5.5% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	19.73% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Porsche
+Placa: GBF-9461
+	L: 	69.0% Pasa en Primera Revisión
+	O2 	100% Segunda Revisión Asignada
+	N2O 	65.9% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: MercedesBenz
+Placa: GPQ-8972
+	L: 	100% Segunda Revisión Asignada
+	O2 	0% Pasa en Primera Revisión
+	N2O 	23.77% Pasa en Primera Revisión
+	CO2 	9.2% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Hyundai
+Placa: GFX-0400
+	L: 	87.0% Segunda Revisión Asignada
+	O2 	53.0% Segunda Revisión Asignada
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión

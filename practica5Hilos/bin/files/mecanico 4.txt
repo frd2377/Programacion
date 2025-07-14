@@ -1,0 +1,82 @@
+mecanico 4
+1 Hyundai CNT-4080 0.53 2.56 45.06 30.03
+2 Toyota CHS-4465 0.12 4.77 20.99 22.04
+3 Hyundai AWL-8691 2.78 0.69 0.03 27.09
+4 Ferrari XVM-4179 0.82 1.78 9.48 1.25
+5 Porsche ANA-6957 2.17 0.46 53.36 23.22
+Porcentaje% 
+Vehiculo: Hyundai
+Placa: CNT-4080
+	L: 	0% Pasa en Primera Revisión
+	O2 	28.0% Pasa en Primera Revisión
+	N2O 	12.65% Pasa en Primera Revisión
+	CO2 	100% Segunda Revisión Asignada
+Porcentaje% 
+Vehiculo: Toyota
+Placa: CHS-4465
+	L: 	0% Pasa en Primera Revisión
+	O2 	100% Segunda Revisión Asignada
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	46.93% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Hyundai
+Placa: AWL-8691
+	L: 	100% Segunda Revisión Asignada
+	O2 	0% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	80.6% Segunda Revisión Asignada
+Porcentaje% 
+Vehiculo: Ferrari
+Placa: XVM-4179
+	L: 	0% Pasa en Primera Revisión
+	O2 	0% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Porsche
+Placa: ANA-6957
+	L: 	100% Segunda Revisión Asignada
+	O2 	0% Pasa en Primera Revisión
+	N2O 	33.4% Pasa en Primera Revisión
+	CO2 	54.8% Segunda Revisión Asignada
+mecanico 4
+1 Hyundai CNT-4080 0.53 2.56 45.06 30.03
+2 Toyota CHS-4465 0.12 4.77 20.99 22.04
+3 Hyundai AWL-8691 2.78 0.69 0.03 27.09
+4 Ferrari XVM-4179 0.82 1.78 9.48 1.25
+5 Porsche ANA-6957 2.17 0.46 53.36 23.22
+Porcentaje% 
+Vehiculo: Hyundai
+Placa: CNT-4080
+	L: 	0% Pasa en Primera Revisión
+	O2 	28.0% Pasa en Primera Revisión
+	N2O 	12.65% Pasa en Primera Revisión
+	CO2 	100% Segunda Revisión Asignada
+Porcentaje% 
+Vehiculo: Toyota
+Placa: CHS-4465
+	L: 	0% Pasa en Primera Revisión
+	O2 	100% Segunda Revisión Asignada
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	46.93% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Hyundai
+Placa: AWL-8691
+	L: 	100% Segunda Revisión Asignada
+	O2 	0% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	80.6% Segunda Revisión Asignada
+Porcentaje% 
+Vehiculo: Ferrari
+Placa: XVM-4179
+	L: 	0% Pasa en Primera Revisión
+	O2 	0% Pasa en Primera Revisión
+	N2O 	0% Pasa en Primera Revisión
+	CO2 	0% Pasa en Primera Revisión
+Porcentaje% 
+Vehiculo: Porsche
+Placa: ANA-6957
+	L: 	100% Segunda Revisión Asignada
+	O2 	0% Pasa en Primera Revisión
+	N2O 	33.4% Pasa en Primera Revisión
+	CO2 	54.8% Segunda Revisión Asignada

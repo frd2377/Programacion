@@ -1,0 +1,5 @@
+Nuevo Cliente Uno;1719511001;pramirez2@ups.edu.ec
+Nuevo Cliente Dos Nuevo;1719511002;pramirez2@ups.edu.ec
+Nuevo Nombre Numero Dos;1719511002;ppedro1@hotmail.com
+Nombre Nuevo Test;1719522001;correo@correo.com
+Nombre Nuevo Test;1718522007;correo@nuevo.com
