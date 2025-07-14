@@ -1,0 +1,52 @@
+IPv6 es un protocolo de Internet que reemplaza gradualmente a IPv4 para abordar la escasez de direcciones IPv4 y brindar una serie de mejoras en términos de seguridad y eficiencia 1719690487 . Si deseas investigar más sobre IPv6, aquí tienes una lista de temas que puedes consultar: acalapaquii@est.ups.edu.ec
+
+1. Introducción a IPv6:
+   - ¿Qué es IPv6? mcoyagos@est.ups.edu.ec
+   - Diferencias entre IPv6 e IPv4.
+
+2. Direcciones IPv6:
+   - Estructura de direcciones IPv6.
+   - Tipos de direcciones IPv6 (unidifusión, multidifusión, anycast).
+   - Notación de direcciones IPv6. schavezb2@est.ups.edu.ec
+
+3. Ventajas de IPv6:
+   - Abundancia de direcciones IP.
+   - Mejora de la calidad de servicio (QoS). 0400966289
+   - Simplificación de la administración de direcciones.
+
+4. Transición de IPv4 a IPv6:
+   - Métodos de transición (dual stack, túneles, NAT64).
+   - Protocolos de transición (6to4, ISATAP).
+   - Desafíos y consideraciones en la transición. 1706757026
+
+5. Configuración y enrutamiento en IPv6: achevezb@est.ups.edu.ec
+   - Configuración de direcciones IPv6 en sistemas operativos.
+   - Protocolos de enrutamiento en IPv6 (OSPFv3, BGP, RIPng).
+   - Tablas de enrutamiento IPv6. 1101160032
+ nchulde@est.ups.edu.ec
+ jcordovam8@est.ups.edu.ec
+
+6. Seguridad en IPv6:
+   - Características de seguridad en IPv6.
+   - Amenazas comunes y mejores prácticas de seguridad.
+   - Extensiones de seguridad de IPv6 (IPsec). 1722599154 
+1710203694
+7. Servicios y aplicaciones IPv6:
+   - Soporte de IPv6 en aplicaciones y servicios.
+   - DNS (DNS64, DNSSEC) en un entorno IPv6.
+   - Servidores web y servicios de red compatibles con IPv6.
+
+8. Implementación y configuración:
+   - Configuración de routers y dispositivos IPv6.
+   - Configuración de servidores DNS para IPv6.
+   - Solución de problemas comunes en implementaciones IPv6.
+
+9. Estándares y organizaciones relacionadas:
+   - RFCs (Request for Comments) relevantes para IPv6.
+   - Organizaciones que promueven y desarrollan IPv6 (como el IPv6 Forum).
+
+10. Casos de uso y ejemplos de implementación:
+    - Estudios de casos de implementaciones exitosas de IPv6.
+    - Escenarios de uso de IPv6 en entornos corporativos y de proveedores de servicios.
+
+Estos temas te proporcionarán una visión general de IPv6 y te permitirán explorar en detalle los aspectos que más te interesen. IPv6 es una tecnología clave en la evolución de Internet y es importante para mantenerse actualizado en este campo. bgonzalesv@est.ups.edu.ec
